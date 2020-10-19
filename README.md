@@ -22,3 +22,7 @@ python search2.py
 从输出中找到步数等于“强制交换的步数+1”，交换
 
 再输入search2中，如果无解，答案就是刚才输出的，如果有解，就拼起来
+
+
+原型网址：https://88ap54.axshare.com
+试玩链接：https://88ap54.axshare.com/#id=a35epr&p=test&g=1
