@@ -4,8 +4,8 @@
 python3.7
 
 编译方法：
-python test.py
-python get.py
+python test.py\n
+python get.py\n
 python search2.py
 
 使用方法：
