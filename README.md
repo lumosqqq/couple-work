@@ -1,11 +1,14 @@
 # couple-work
 运行环境：
 
-操作系统：Windows
+操作系统：
+
+Windows
 
 python3.7
 
 编译方法：
+
 python test.py
 
 python get.py
